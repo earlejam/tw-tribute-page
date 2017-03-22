@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+* {
+  font-family: 'Lora', serif;
+}
+
+.jumbotron {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  min-width: 400px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #c00;
+}
+
+small {
+  margin-top: 14px;
+  display: block;
+  font-size: .5em;
+  color: black;
+}
+
+blockquote {
+  margin: 40px 0px;
+}
+
+footer {
+  font-size: 16px;
+}
+
+.page-header {
+  margin-bottom: 30px;
+}
+
+.row-fluid {
+  text-align: center;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 3em;
+  color: black;
+}
+
+h2 {
+  margin: 40px 20px 20px 20px;
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+  margin-top: 30px;
+}
+
+h6 {
+  padding: 15px;
+  border-top: 1px solid #e6e6e6;
+  margin-left: 10%;
+  margin-right: 10%;
+  min-width: 400px;
+}
+
+footer {
+  margin-left: 15px;
+  color: #686d75;
+}
+
+.description {
+  margin: 10px 50px 0px 50px;
+  color: black;
+}
+
+li {
+  margin: 5px 0px;
+}
+
+span {
+  color: #5b0410;
+}
+
+#endquote {
+  color: #2f332f;
+  font-size: 1.25em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-thumbnail {
+  padding-bottom: 0;
+  border-radius: 4px 4px 0 0;
+  border-bottom: 1px solid white;
+}
+
+figcaption {
+  font-size: 14px;
+  background-color: white;
+}
+
+#caption {
+  padding: 10px 6px;
+  border-radius: 0 0 4px 4px;
+  border-bottom: 1px solid #d6d8db;
+  max-width: 850px;
+  margin: 0 auto;
+  margin-top: -1px;
+}
